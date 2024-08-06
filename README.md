@@ -8,8 +8,6 @@ A port scanner is an program that probes a host to identify open network ports. 
 
 ### Run Scanner
 
-Para fazer o deploy desse projeto rode
-
 ```bash
   cargo run -- -host=localhost
   cargo run -- -host=localhost,192.168.1.10
